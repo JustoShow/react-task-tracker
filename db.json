@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Study Code",
+      "day": "September 9th at 4:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "First Day of New Job",
+      "day": "October 10th at 7:00am",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Doctors Appointment",
+      "day": "November 5th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Date Night",
+      "day": "Friday at 7:pm",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
